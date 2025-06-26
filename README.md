@@ -209,6 +209,6 @@ npm run dev
 
 All rights reserved.  
 
-This project and its source code are protected. You may not use, copy, modify, distribute, or reproduce any part of this project without explicit written permission from the author.
+This project and its source code are protected. You may not use, copy, modify, distribute, or reproduce any part of this project without explicit written permissions from the author.
 
 © 2025 Annigandla Kameshwara Rao
